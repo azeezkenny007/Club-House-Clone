@@ -1,0 +1,25 @@
+.container img{
+ width: 70px;
+ height: 40px;
+ border-radius: 2.3em;
+ margin-right: 0.2em;
+ 
+}
+
+.container{
+  padding: 0.2em 0.7em;
+  align-items: center;
+  margin: 0.3em;
+}
+
+.container>div{
+ line-height: 1;
+ margin-left: 0.5em;
+ margin-right: 0.1em;
+}
+
+.container>div:last-child{
+  margin-left: 0.3em;
+  color:#aaaaaa;
+  margin-bottom: 1.8em;
+}

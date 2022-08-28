@@ -1,0 +1,50 @@
+.container{
+ padding: 3.5em 1em;
+ overflow: auto;
+ height: 100vh; 
+}
+
+.container +.actionbtn button{
+    background-color: transparent;
+    border: none;
+    margin-left: auto;
+}
+
+.container +.actionbtn{
+  display: flex;
+  align-items: center;
+  padding: 4em 1.5em  2em 1.5em;
+  position: sticky;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background:linear-gradient(transparent 20% , #f2f0e4 80%);
+
+}
+
+.container +.actionbtn button svg{
+ font-size: 1.3em;
+ margin-right: 0.5em;
+}
+
+.container +.actionbtn>button:first-child{
+ border-radius: 2em;
+ background-color: #28ae61;
+ color: white;
+ padding: 0.3em 1em;
+ font-size: 1.1em;
+ display: flex;
+ align-items: center;
+ position: absolute;
+ left: 50%;
+ transform: translateX(-50%);
+}
+
+.container +.actionbtn > button:nth-child(2){
+   line-height: 1;
+}
+
+.container +.actionbtn >button:nth-child(2) svg{
+   color: var(--textColor);
+}

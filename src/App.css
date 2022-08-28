@@ -1,0 +1,44 @@
+html{
+ scroll-behavior: smooth;
+}
+
+:root{
+  --textColor:rgb(64,65,66);
+  --btnBgColor:#3287b7;
+}
+
+body{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+
+}
+
+.primaryBtn{
+ color:red;
+}
+
+.font-best{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.max-270{
+  max-width: 270px !important;
+}
+
+.app_layout{
+  background-color: #f2f0e4;
+  height: 100vh;
+  position: relative;
+  width:100%;
+  max-width: 500px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.plan_layout{
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}

@@ -1,0 +1,73 @@
+[
+        {
+          "id": 1,
+          "title": "GOOD TIME",
+          "sub_title": "Calvin Harris x Emma Nava on a Good Time Show",
+                   "members": [
+                     {
+                       "first_name": "srirkan",
+                       "last_name": "krishan"
+                     },
+                     {
+                       "first_name": "azeez",
+                       "last_name": "clement"
+                     },
+                     {
+                       "first_name": "steven",
+                       "last_name": "sinofesky"
+                     },
+                     {
+                       "first_name": "paul",
+                       "last_name": "Davidson"
+                     }
+                   ]
+        },
+
+        {
+          "id": 2,
+          "title": "GOOD TIME",
+          "sub_title": "Calvin Harris x Emma Nava on a Good Time Show",
+                 "members": [
+                   {
+                     "first_name": "kate",
+                     "last_name": "williams"
+                   },
+                   {
+                     "first_name": "taiwo",
+                     "last_name": "clement"
+                   },
+                   {
+                     "first_name": "azeezat",
+                     "last_name": "okhamena"
+                   },
+                   {
+                     "first_name": "paul",
+                     "last_name": "Davidson"
+                   }
+                 ]
+        },
+
+       {
+         "id": 3,
+         "title": "GOOD TIME",
+         "sub_title": "Calvin Harris x Emma Nava on a Good Time Show",
+                 "members": [
+                   {
+                     "first_name": "srirkan",
+                     "last_name": "krishan"
+                   },
+                   {
+                     "first_name": "yusuf",
+                     "last_name": "clement"
+                   },
+                   {
+                     "first_name": "kehinde",
+                     "last_name": "okhamena"
+                   },
+                   {
+                     "first_name": "paul",
+                     "last_name": "Davidson"
+                   }
+                 ]
+       }
+]

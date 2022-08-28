@@ -1,0 +1,29 @@
+
+.upcomingContainer{
+ overflow:auto;
+ height: 100vh;
+}
+
+.profilePic img{
+  width: 40px;
+  margin-right: 0.2em;
+  height: 40px;
+  border-radius: 2.0em;
+}
+
+
+.profilePic{
+   display: flex;
+   align-items: center;
+}
+
+.timeSection img{
+ width: 20px !important;
+ margin-right: 0.5em;
+}
+
+.timeSection>div{
+ color: #aaaaaa;
+ font-size: 0.7em;
+ margin-bottom: 0.1em;
+}

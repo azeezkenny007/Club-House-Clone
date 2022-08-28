@@ -1,0 +1,101 @@
+{
+  "people":[
+   {
+       "title":"April Underwood",
+       "description":"CEO and Co-Founder , Local Laboratory"
+   },
+
+   {
+      "title":"Helena Price Hambert",
+      "description":"Founder @Drinkaus / Twitter Helena"
+   },
+
+   {
+     "title":"James Cham",
+     "description":"@JamesCham"
+   }
+  ],
+
+   "conversations":[
+       {
+         "title":"Tech",
+         "description":"Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+       },
+
+  {
+    "title":"Resources",
+    "description":"Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+  },
+
+  {
+    "title": "Hanging out",
+    "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+  },
+
+    {
+      "title": "Faith",
+      "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+    },
+
+    {
+      "title": "Wellness",
+      "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+    },
+
+      {
+        "title": "World Affairs",
+        "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+      },
+
+      {
+        "title": "College",
+        "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+      },
+
+        {
+          "title": "People",
+          "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+        },
+
+        {
+          "title": "Implementation",
+          "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+        },
+
+          {
+            "title": "Business",
+            "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+          },
+          {
+            "title": "Drive",
+            "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+          },
+          
+          {
+            "title": "Business",
+            "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+          },
+          {
+            "title": "Latest",
+            "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+          },
+           {
+             "title": "Infographic",
+             "description": "Ventures Capitals,Dtc ,Ai, Saas,Angel investing"
+           }
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+}
